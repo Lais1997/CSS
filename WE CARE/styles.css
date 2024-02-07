@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    margin: 44px 0 144px 76px;
+}
+
+.link-header {
+    font-weight: 600;
+    color: #989D9C;
+    font-size: 24px;
+    line-height: 29px;
+    margin-right: 23px;
+    cursor: pointer;
+}
+
+.button-login {
+    color: #FFFFFF;
+    background-color: #665AE1;
+    font-size: 24px;
+    border-radius: 20.5px;
+    width: 130px;
+    height: 41px;
+    font-weight: 600;
+    line-height: 29px;
+    border: none;
+    cursor: pointer;
+}
+
+.logo-img {
+    margin-left: 125px;
+    width: 568px;
+    height: 500px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+}
+
+h1 {
+    color: #515151;
+    font-size: 100px;
+    font-weight: 900;
+    line-height: 121px;
+}
+
+h2 {
+    color: #515151;
+    font-size: 58px;
+    font-weight: 500;
+    line-height: 70px;
+}
+
+p {
+    color: #848484;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    width: 515px;
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+
+.button-explore {
+    background: #ADFF00;
+    border-radius: 30px;
+    width: 239px;
+    height: 64px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+}
